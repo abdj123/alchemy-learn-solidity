@@ -13,10 +13,10 @@ Dawit Shewangzaw ....................................... UGR/23783/13
 
 ## 📁 Repository Structure
 
-alchemy-learn-solidity/
-├── 4_applied_solidity/1_voting/ # Applied Solidity - Voting project
-├── Address-Interactions/ # Exercises on address-level interactions
-├── ch-4-inheritance/ # Chapter 4 - Inheritance in Solidity
-├── reference-types/ # Reference types practice
-├── solidity-introduction/ # Introduction to Solidity with screenshots
+alchemy-learn-solidity/ **</br>**
+├── 4_applied_solidity/1_voting/ # Applied Solidity - Voting project </br>
+├── Address-Interactions/ # Exercises on address-level interactions </br>
+├── ch-4-inheritance/ # Chapter 4 - Inheritance in Solidity </br>
+├── reference-types/ # Reference types practice </br>
+├── solidity-introduction/ # Introduction to Solidity with screenshots </br>
 └── Readme.md # Project overview and group members
